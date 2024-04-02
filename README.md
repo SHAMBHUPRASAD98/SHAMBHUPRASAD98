@@ -9,10 +9,10 @@ I'm Shambhu Prasad, a passionate data science enthusiast with a strong backgroun
 ## Skills 🛠️
 
 - **Languages:** Python, SQL
-- **Tools:** PowerBI, Tableau, Jupyter Notebook
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Modeling
+- **Tools:** PowerBI, Jupyter Notebook
+- **Data Analysis:** Exploratory Data Analysis (EDA), Data Modeling, Numpy & Pandas
 - **Machine Learning:** Supervised and Unsupervised Learning, Classification, Clustering, Regression
-- **Visualization:** Matplotlib, Seaborn, Tableau
+- **Visualization:** Matplotlib, Seaborn.
 
 ## Projects 📂
 
@@ -29,6 +29,12 @@ I'm Shambhu Prasad, a passionate data science enthusiast with a strong backgroun
 
 4. **Supermarket Store Branch Sales Analysis** 🛒
    - Interactive dashboard created using Tableau for sales analysis.
+  
+5. **Netflix data analysis using Panda & Seaborn** 📦
+   - Pandas for data manipulation and analysis 🐼
+   - Matplotlib and Seaborn for data visualization 📊
+   - Jupyter Notebook for interactive analysis 📓
+
 
 ## Connect with Me 🤝
 
