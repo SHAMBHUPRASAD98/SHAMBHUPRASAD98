@@ -1,4 +1,4 @@
-🔥 Passionate, results-driven DevOps Engineer with over [X] years of experience in automating, scaling, and optimizing mission-critical deployments in cloud environments. 🚀
+🔥 Passionate, results-driven DevOps Engineer with over 04 years of experience in automating, scaling, and optimizing mission-critical deployments in cloud environments. 🚀
 
 ☁️ Deep expertise in managing infrastructure with AWS, enhancing observability using the ELK Stack, and designing scalable data pipelines powered by Apache Kafka.
 
@@ -7,21 +7,19 @@
 📈 Enthusiastic about system reliability, continuous monitoring, and performance optimization — always pushing for smarter, faster, and more secure operations.
 
 🧰 Key Skills
-☁️ Cloud Platforms: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, ECS, EKS)
+☁️ Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch, ECS, EKS)
 
-📉 Monitoring & Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
+📉 Monitoring & Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Grafana
 
 🔄 Messaging & Streaming: Apache Kafka (Kafka Connect, Schema Registry, Kafka Streams)
 
-🛠️ DevOps Tools: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab CI/CD
+🛠️ DevOps Tools: Docker, Kubernetes, Jenkins, GitLab CI/CD
 
 🐍 Scripting & Automation: Bash, Python
 
 🔧 Version Control: Git, GitHub/GitLab
 
-🖥️ OS & Servers: Linux (Ubuntu, CentOS), NGINX, Apache
-
-🔐 Security & Compliance: IAM policies, security groups, encryption (at rest & in transit)
+🖥️ OS & Servers: Linux (Ubuntu, CentOS), NGINX
 
 🚀 Project Highlights
 📊 Centralized Logging with ELK on AWS
