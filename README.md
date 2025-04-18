@@ -1,45 +1,46 @@
-# Shambhu Prasad's Data Analysis Portfolio 👨‍💼📊
+🔥 Passionate, results-driven DevOps Engineer with over [X] years of experience in automating, scaling, and optimizing mission-critical deployments in cloud environments. 🚀
 
-Welcome to my data analysis portfolio! Here you'll find a collection of projects showcasing my skills and experience in data analysis, visualization, and machine learning.
+☁️ Deep expertise in managing infrastructure with AWS, enhancing observability using the ELK Stack, and designing scalable data pipelines powered by Apache Kafka.
 
-## About Me ℹ️
+🔧 Skilled in building CI/CD pipelines, implementing container orchestration, and writing infrastructure-as-code (IaC) to support agile development and operational excellence.
 
-I'm Shambhu Prasad, a passionate data science enthusiast with a strong background in data analysis and software engineering. I love transforming raw data into actionable insights and creating meaningful visualizations that drive decision-making.
+📈 Enthusiastic about system reliability, continuous monitoring, and performance optimization — always pushing for smarter, faster, and more secure operations.
 
-## Skills 🛠️
+🧰 Key Skills
+☁️ Cloud Platforms: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, ECS, EKS)
 
-- **Languages:** Python, SQL
-- **Tools:** PowerBI, Jupyter Notebook
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Modeling, Numpy & Pandas
-- **Machine Learning:** Supervised and Unsupervised Learning, Classification, Clustering, Regression
-- **Visualization:** Matplotlib, Seaborn.
+📉 Monitoring & Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
 
-## Projects 📂
+🔄 Messaging & Streaming: Apache Kafka (Kafka Connect, Schema Registry, Kafka Streams)
 
-1. **Titanic Spaceship Analysis** 🚢
-   - Kaggle competition project with an accuracy score of 0.80173.
-   - Classification problem solved using Python and Tableau for visualization.
+🛠️ DevOps Tools: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab CI/CD
 
-2. **Amazon Seller Order Status Prediction** 📦
-   - Analysis and visualization project using Python's Matplotlib and Seaborn in Jupyter Notebook.
+🐍 Scripting & Automation: Bash, Python
 
-3. **Heart Disease Prediction** ❤️
-   - Classification problem with an accuracy score of 0.88524.
-   - Includes Exploratory Data Analysis (EDA) and data modeling in Python.
+🔧 Version Control: Git, GitHub/GitLab
 
-4. **Supermarket Store Branch Sales Analysis** 🛒
-   - Interactive dashboard created using Tableau for sales analysis.
-  
-5. **Netflix data analysis using Panda & Seaborn** 📦
-   - Pandas for data manipulation and analysis 🐼
-   - Matplotlib and Seaborn for data visualization 📊
-   - Jupyter Notebook for interactive analysis 📓
+🖥️ OS & Servers: Linux (Ubuntu, CentOS), NGINX, Apache
 
+🔐 Security & Compliance: IAM policies, security groups, encryption (at rest & in transit)
 
-## Connect with Me 🤝
+🚀 Project Highlights
+📊 Centralized Logging with ELK on AWS
+🏗️ Designed and deployed a scalable ELK Stack on AWS to centralize logs across microservices
 
-Let's connect and collaborate! You can reach me via:
-- [LinkedIn](https://www.linkedin.com/in/shambhuprasad01) 🔗
-- [Email](mailto:shambhuprasad0198@gmail.com) 📧
+⚙️ Automated log ingestion and parsing with Logstash, enabling clear and actionable insights in Kibana
 
-Feel free to explore my projects and reach out for any inquiries or collaboration opportunities! 🚀
+📉 Achieved a 40% reduction in MTTR through enhanced log traceability and real-time dashboards
+
+🔄 Event Streaming Platform with Kafka
+⚡ Set up production-grade Kafka clusters using Confluent Platform for real-time data pipelines
+
+🔗 Integrated Kafka with microservices for event-driven architecture and persistent data connectors
+
+📡 Enabled live monitoring and analytics by piping Kafka streams into ELK dashboards
+
+☁️ CI/CD and Infrastructure Automation
+🧱 Automated cloud infrastructure using Terraform and CloudFormation for consistent environments
+
+🔄 Built robust CI/CD pipelines using Jenkins and GitLab CI to automate testing and deployments
+
+🐳 Containerized applications with Docker and deployed at scale using Kubernetes (EKS)
